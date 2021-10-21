@@ -1,0 +1,32 @@
+#contact iframe
+{
+    width: 100%;
+}
+.places{
+    border: 3px solid red;
+}
+.places img{
+    width: 100%;
+}
+.places h5, .places p{
+    margin: 20px;
+}
+.movie{
+    font-size: 20px;
+    border-radius: 10%;
+    margin-bottom: 10px;
+    padding: 6px 13px;
+}
+.movie i{
+    float: right;
+}
+.avenger span{
+    color: gold;
+}
+.book1{
+    margin-bottom: 20px;
+}
+.book1 img{
+    height: 400px;
+    width: 350px;
+}
